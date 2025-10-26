@@ -24,3 +24,5 @@ Run following commands inside Terraform Tests folder to initialize the working f
 
 - <b>Terraform init</b></br>
 - <b>Terraform test</b>
+
+just test
